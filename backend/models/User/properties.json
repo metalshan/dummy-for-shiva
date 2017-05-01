@@ -1,0 +1,21 @@
+{
+	"properties":{
+		"_id":{
+			"type": "String"
+		},
+		"name":  {
+			"type": "String"
+		},
+		"userid": {
+			"type": "String"
+		},
+		"lastActive": {
+			"type": "Date"
+		}
+	},
+
+	"uiMap":{
+		"name": "name",
+		"userid": "userid"
+	}
+}

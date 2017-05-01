@@ -1,0 +1,14 @@
+{
+	"api":{
+		"userid":{
+			"rules":["required"],
+			"controlName":"UseeId"
+		}
+	},
+	"ui":{
+		"userid":{
+			"rules":["required"],
+			"controlName":"UserId"
+		}
+	}
+}

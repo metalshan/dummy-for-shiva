@@ -1,0 +1,9 @@
+{
+	"dbClient": "core.infrastructure.db-manager",
+	"baseController": "backend.base.controller",
+	"baseModel": "backend.base.model",
+	"baseRoute": "backend.base.route",
+	"configManager": "core.scaffold.config-manager",
+	"sessionManager": "core.infrastructure.session-manager"
+}
+	

@@ -1,0 +1,30 @@
+{
+  "name": "ChatApp",
+  "version": "1.0.9",
+  "description": "simple chat app",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+"
+  },
+  "keywords": [
+    "node",
+    "setup"
+  ],
+  "author": "Paul Shan <go2mailshan@gmail.com>",
+  "license": "MIT",
+  "bugs": {},
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "compression": "^1.6.1",
+    "express": "^4.13.4",
+    "express-session": "^1.13.0",
+    "fs": "0.0.2",
+    "imvalid": "^1.4.0",
+    "mongodb": "^2.1.18",
+    "yargs": "^4.6.0"
+  }
+}
